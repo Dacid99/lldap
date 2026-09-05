@@ -6,6 +6,7 @@
 
 For more guides and reference on freeradius see [the official documentation](https://www.freeradius.org/documentation/).
 Depending on the distribution you use to set up freeradius the filepaths may be different from the ones given here.
+The version given here is for valid for Debian 13 Trixie with freeradius 3.2.10 .
 
 Install the LDAP module for freeradius
 
