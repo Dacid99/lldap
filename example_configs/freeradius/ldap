@@ -1,5 +1,5 @@
 ldap {
-        server = 'ldap://ldap.example.org:389'
+        server = 'ldaps://ldap.example.org'
 
         identity = 'uid=freeradius,ou=people,dc=example,dc=org'
         password = 'freeradiuspassword'
