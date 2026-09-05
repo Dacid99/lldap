@@ -5,6 +5,7 @@
 > the only authentication methods that are known to work are PAP and TTLS/PAP.
 
 For more guides and reference on freeradius see [the official documentation](https://www.freeradius.org/documentation/).
+Depending on the distribution you use to set up freeradius the filepaths may be different from the ones given here.
 
 Install the LDAP module for freeradius
 
