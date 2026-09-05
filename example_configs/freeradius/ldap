@@ -10,6 +10,7 @@ ldap {
         user {
                 base_dn = "ou=people,${..base_dn}"
                 filter = "(uid=%{%{Stripped-User-Name}:-%{User-Name}})"
+        }
 
         group {
                 base_dn = "ou=groups,${..base_dn}"
